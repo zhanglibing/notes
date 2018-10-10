@@ -27,6 +27,7 @@ function isDate(myDate) {
 ```javascript
 parseFloat('3.25') // 3.25
 ```
+
 `Number`转化
 ```javascript
 Number(false)     // 返回 0
