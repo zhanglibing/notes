@@ -2,7 +2,7 @@
 layout: post
 title:  "javascript 模块"
 tags:
-categories:
+categories:git
 ---
 
 ## javascript 易错总结
