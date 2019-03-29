@@ -7,6 +7,7 @@ categories:
 
 ## javascript 易错总结
 
+### console.log([]==false) true[]
 ### typeof
 ```javascript
 console.log(typeof undefined);              // undefined
